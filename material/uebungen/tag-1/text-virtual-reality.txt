@@ -1,0 +1,88 @@
+Virtuelle Realität
+
+Fallschirmspringer der US-Navy übt mit einem Head-Mounted Display (HMD) virtuell das Fallschirmspringen.
+Als virtuelle Realität, kurz VR, wird die Darstellung und gleichzeitige Wahrnehmung der Wirklichkeit und ihrer physikalischen Eigenschaften in einer in Echtzeit computergenerierten, interaktiven virtuellen Umgebung bezeichnet.
+
+Geprägt wurde der Begriff Virtual reality von dem Autor Damien Broderick in seinem 1982 erschienenen SF-Roman The Judas Mandala, 1987 erschien der Begriff erstmals, als theoretisches Konzept, im Oxford English Dictionary.[1]
+
+Eine Vermischung der virtuellen Realität und der reinen Realität wird gemischte Realität (engl. mixed reality) genannt.
+
+Inhaltsverzeichnis 
+
+1	Anforderungen
+2	Hardware
+3	Software
+4	Anwendungen
+5	Vorkommen in Filmen (Auswahl)
+6	Virtuelle Realität für Videospiele
+
+Anforderungen
+
+Beim Erstellen einer virtuellen Welt, kann man einige Anforderungen definieren, die erfüllt werden sollten. Einige mögliche Anforderungen sind zum Beispiel Immersion, Plausibilität, Interaktivität und Wiedergabetreue.
+
+Immersion beschreibt die Einbettung des Nutzers in die virtuelle Welt. Die Wahrnehmung der eigenen Person in der realen Welt wird vermindert und der Nutzer fühlt sich mehr als Person in der virtuellen Welt. Dies lässt sich durch eine anspruchsvolle und spannende Gestaltung der virtuellen Welt erreichen, so wie auch die Anzahl der möglichen Aktionen in dem System.
+
+Eine virtuelle Welt wird als plausibel angesehen, wenn die Interaktion in ihr in sich logisch und stimmig ist. Dies betrifft einerseits das Gefühl des Nutzers, dass die eigenen Aktionen auf die virtuelle Umgebung Einfluss haben, jedoch auch, dass die Ereignisse in der Umgebung die Sinne des Nutzers beeinflussen; er also in der Welt agieren kann. Durch diese Interaktivität wird die Illusion geschaffen, dass das, was zu passieren scheint, tatsächlich passiert.[2]
+
+Wiedergabetreue wird erreicht, wenn die virtuelle Umgebung genau und naturgetreu gestaltet wird. Dies geschieht wenn die virtuelle Welt Eigenschaften einer natürlichen Welt abbildet, sie erscheint dem Nutzer dann glaubwürdig.
+
+Ein häufiges Problem bei VR ist etwa motion sickness (etwa „Bewegungsübelkeit“): Benutzern kann schwindelig werden, wenn die real empfundene von der virtuell gesehenen Beschleunigung abweicht. Dies kann der Fall sein, wenn der reale zur Verfügung stehende Raum kleiner als der virtuelle Raum ist, in dem sich ein Benutzer bewegen kann.[3]
+
+
+Hardware
+
+Um ein Gefühl der Immersion zu erzeugen, werden zur Darstellung virtueller Welten spezielle Ausgabegeräte benötigt. Bekannt sind vor allem das Head-Mounted Display siehe z. B. Oculus Rift, Großbildleinwände oder die CAVE. Um einen räumlichen Eindruck zu erzeugen, werden zwei Bilder aus unterschiedlichen Perspektiven erzeugt und dargestellt (Stereoprojektion). Um das jeweilige Bild dem richtigen Auge zuzuführen, existieren verschiedene Technologien. Man unterscheidet aktive (wie z. B. Shutterbrillen) und passive Technologien (wie z. B. Polfilter oder Infitec).
+
+Für die Interaktion mit der virtuellen Welt werden spezielle Eingabegeräte benötigt. Zu nennen sind hier unter anderem 3D-Maus, Datenhandschuh und Flystick sowie das omnidirektionale Laufband, mit welchem das Gehen im virtuellen Raum durch reale Gehbewegungen gesteuert wird.
+
+
+Ein omnidirektionales Laufband, der Cyberith Virtualizer, auf der Gamescom 2013
+Der Flystick wird zur Navigation mit optischen Trackingsystem genutzt, wobei Infrarot-Kameras permanent die Position im Raum durch Erfassung von Markern am Flystick an das VR-System melden, damit sich der Benutzer ohne Verkabelung frei bewegen kann. Optische Trackingsysteme können auch für die Erfassung von Werkzeugen und kompletten Menschmodellen eingesetzt werden, um diese innerhalb des VR Szenario in Echtzeit manipulieren zu können.
+
+Einige Eingabegeräte vermitteln dem Benutzer eine Kraftrückkopplung auf die Hände oder andere Körperteile (Force Feedback), so dass der Mensch sich durch die Haptik und Sensorik als weitere Sinnesempfindung in der dreidimensionalen Welt orientieren und realitätsnahe Simulationen durchführen kann.
+
+
+Software
+
+Man benötigt zur Erzeugung virtueller Realität speziell für diesen Zweck entwickelte Software. Diese Programme müssen komplexe dreidimensionale Welten in Echtzeit, d. h. mit mindestens 25 Bildern pro Sekunde (dieser Wert variiert je nach Anwendung – eine Fahrsimulation beispielsweise erfordert mindestens 60 Bilder pro Sekunde um Übelkeit (Simulatorkrankheit) zu vermeiden), in Stereo (getrennt für linkes und rechtes Auge) berechnen können.
+
+In den 1990er Jahren war die Rechenleistung als auch die Hardware meist noch nicht ausreichend für den produktiven Einsatz und für realistische Simulationen, deshalb wurden hier meist spezielle Grafikworkstations eingesetzt. Zu Anfang dieses Jahrtausends sind, durch deutlich leistungsfähigere Rechner und Grafikprozessoren, die Möglichkeiten der Interaktion in den Szenarien deutlich gestiegen.
+
+Für die Modellierung von dreidimensionalen, virtuellen Objekten kommen Programme wie Maya, 3D Studio Max, Blender, SketchUp, Softimage XSI, Cinema 4D, Lightwave3D und andere CAD- oder 3D-Programme zur Anwendung. Zusätzliche Software wird für die Bild- und Tonbearbeitung benötigt. Um die dort modellierten Objekte zu interaktiven Simulationen zusammenzusetzen, nutzt man Autorensysteme, wie z. B. World Tool Kit oder World Up.
+
+Zur Darstellung von interaktiven, grafischen 3D-Szenen im Internet dient die Computersprache VRML/X3D.
+
+
+Interaktion mit Flystick und 6DoF Force-feedback in Mehrseitenprojektion
+
+Anwendungen
+
+
+Eine 3D-Powerwall von Daimler
+
+Flugsimulator
+Virtuelle Realität lässt sich in vielen Bereichen einsetzen. Ein sehr bekanntes Einsatzgebiet ist die Pilotenausbildung in Flugsimulatoren. Auch in der Industrie wird diese Technologie verstärkt eingesetzt, vor allem zur Erstellung von virtuellen Prototypen, Produktionsplanungen, virtuellem Training, für ergonomische Bewertungen und räumliche Studien in der Geologie. Weitere Einsatzgebiete sind Visualisierungen in Architektur, Medizin, Chemie, Energie und Edutainment (z. B. Virtual Cultural Heritage). Der therapeutische Einsatz von virtueller Realität wird unter dem Stichwort virtuelle Rehabilitation untersucht. In der Industrie werden sowohl „Powerwall“ als stereoskopische 3D-Wand als auch Mehrseitenprojektionen wie CAVE zum vollständigen Eintauchen in die grafische Simulation genutzt. In den letzten Jahren haben sich in Deutschland und Frankreich eine Reihe von Firmen etabliert, die Virtual-Reality-Software für Industrieunternehmen anbieten, etwa ICIDO, VISENSO und andere.
+
+Ein weiteres Anwendungsbeispiel ist der Einsatz bei Planungen von Infrastrukturmaßnahmen, die das Landschaftsbild verändern. Die Umwelt kann so nachgebildet werden, dass die Bürger nicht nur sehen, sondern erleben können, was sich durch ein Vorhaben verändert. Sie können selbst entscheiden, welchen Standpunkt sie für die Betrachtung einnehmen, entweder per Gamepad oder bei der Internetversion mit Pfeiltastennavigation. Zu sehen sind:
+
+der genaue Standort und ggf. Alternativen
+die Umgebung mit der existierenden Bebauung, dem Verkehrsnetz und den Sehenswürdigkeiten zur Orientierung
+Straßen mit fließendem Verkehr, einstellbar nach Tageszeit (auf Basis von Verkehrszählungen oder Prognosen)
+Schattenwurf im Tages-, Monats- und Jahresverlauf.
+Die 3D-Darstellung ist geeignet für den stationären Einsatz, z. B. in Veranstaltungen zur Bürgerbeteiligung oder zur Erläuterung in politischen Gremien, und als Tool zur Information und Konsultation (z. B. bei Genehmigungsverfahren) im Internet.
+
+Virtual Reality ist zunehmend auch im Unterhaltungsmarkt zu finden. So gibt es Fitnessgeräte mit VR-Unterstützung sowie Simulatoren, die einen virtuellen Flug durch Städte ermöglichen. Darüber hinaus gibt es Achterbahnen, bei denen die Teilnehmer während der Fahrt eine VR-Brille tragen.[4]
+
+
+Vorkommen in Filmen (Auswahl)
+
+Unterschiedliche Konzepte virtueller Realität bilden die Grundlage für zahlreiche Filme. In den Verfilmungen des Romans Simulacron-3 – Welt am Draht (1973) und The 13th Floor (1999) – verwischen die Grenzen zwischen Realität und virtueller Realität. Beide Filme stellen die Frage nach der Möglichkeit, dass das Leben an sich nur eine Simulation ist. In der Disney Produktion Tron aus dem Jahre 1982 wird der Hauptdarsteller direkt körperlich in eine virtuelle Realität im Inneren eines Computers gezogen und muss in ihr um sein Überleben kämpfen. Seine Gegner sind personalisierte Funktionseinheiten des Rechners. Der 1992 entstandene Film Der Rasenmähermann zeigt Pierce Brosnan als einen Wissenschaftler, der versucht, den geistig zurückgebliebenen Gemeindegärtner mittels VR intelligenter zu machen. In den Filmen Last Action Hero (1993), Enthüllung (1994), Brainscan (1994) oder Vernetzt – Johnny Mnemonic (1995) tauchen Protagonisten in VR ein. Der Film eXistenZ (1999) basiert auf einer Erzählstruktur, die seine Protagonisten in einer stark verschachtelten virtuellen Realität zunehmend orientierungslos zeigt. 1999 erschien der erste Teil der Matrix Reihe. In dieser lebt nahezu die gesamte Erdbevölkerung in VR, wobei die Menschen nicht davon wissen, dass sie nur in einer simulierten Welt leben; in Animatrix sind insbesondere in der Episode „Matriculated“ virtuelle Welten zu sehen. In der Trilogie ist die Zion-Realität der Matrix einer anderen Realität übergeordnet. In dem kanadischen B-Movie Tribulation missioniert ein Sektenguru weitere „Schafe“, indem er sie mittels Helmdisplay in eine VR eintauchen lässt.
+
+
+Virtuelle Realität für Videospiele
+
+
+Sony Morpheus Virtual Reality auf der Gamescom
+Die Verwendung von Grafiken, Sound und Eingabetechnologien in Videospielen können mit der Hilfe von Virtual Reality implementiert werden. Mehrere Virtual Reality Head Mounted Displays (HMD) wurden hierfür während der frühen 1990er Jahre für Spielekonsolen auf den Markt gebracht. Dazu gehörten das von Nintendo entwickelte Virtual Boy, die iGlasses, entwickelt von Virtual I-O, der Cybermaxx von Victormaxx und der von Forte Technologies hergestellte VFX1 Headgear.[5] Trotz vieler Bemühungen Virtual Reality als einen profitablen Markt zu etablieren, scheiterte man aufgrund der Tatsache, dass die Technologie für den Verbrauchermarkt noch nicht ausreichend ausgereift war. So waren frühe Designs nicht nur sehr teuer, sondern waren auch zu groß und die Steuerung zu unintuitiv für Spieler. Modernere und erfolgreichere Beispiele für Virtual Reality in der Videospielindustrie umfassen die Wii-Fernbedienung, das Microsoft Kinect und die PlayStation Move / PlayStation Eye, von denen alle in der Lage sind Gesten- und Bewegungsinputs des Spielers auf der Spielekonsole darzustellen. Dennoch waren diese konservativen Implementationen von Virtual Reality noch weit entfernt von den Grundideen, die man in den 1990er Jahren erstrebte. [6]
+
+Mehrere Unternehmen arbeiten an einer neuen Generation von Virtual Reality-Headsets: Oculus Rift ist ein primär für Spielzwecke entwickeltes Head-Mounted-Display von Oculus VR, einem amerikanischen Technologieunternehmen, welches für 2 Mrd. US $ von Facebook im Jahr 2014 aufgekauft wurde. Nach einer erfolgreichen Kickstarter Kampagne, war das Oculus Rift teilweise für ein wiedererwecktes Interesse an Virtual Reality Gaming verantwortlich und mehrere Großunternehmen arbeiten nun an ihren eigenen Virtual Reality-Headsets. Einer seiner Konkurrenten ist das PlayStation VR (Codename Morpheus) von Sony Computer Entertainment, die als Plattform eine PlayStation 4 statt einem PC benötigt. Im Jahre 2015 kündigte Valve Corporation eine Partnerschaft mit HTC an, in Form des HTC Vive, einem VR-Headset, welches in der Lage sein soll die Position des Benutzers in einem 4.5 x 4.5 Meter Areal verfolgen zu können.[7] Alle diese Virtual Reality-Headsets sind angebundene Headsets, die durch die Verwendung von speziellen, gekrümmten Linsen einen etwa handflächengroßen Bildschirm vergrößern und strecken, um das Blickfeld des Benutzers zu füllen. Zahlreiche weitere Virtual Reality-Headsets sind ebenfalls in Entwicklung, doch ein Durchbruch im Verbrauchermarkt ist noch nicht abzusehen, aufgrund Kostenineffizienz und mangelnder Drittanbieter-Software.
